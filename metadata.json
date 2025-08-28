@@ -1,0 +1,5 @@
+{
+  "name": "AI Fitness Planner",
+  "description": "An intelligent fitness application that provides personalized diet and exercise plans based on user metrics, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
